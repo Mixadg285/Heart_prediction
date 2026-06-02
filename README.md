@@ -14,3 +14,5 @@ This project now contains a React frontend for a heart-disease risk prediction a
    npm run dev
 
 The frontend will send patient details to the backend and display the predicted status and risk probability.
+
+<img width="1265" height="844" alt="image" src="https://github.com/user-attachments/assets/18c5ec67-6996-454c-ae20-2692f79ca67b" />
